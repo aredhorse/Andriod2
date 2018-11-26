@@ -30,6 +30,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Query data"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="test 修改"/>
 
 
 </LinearLayout>
